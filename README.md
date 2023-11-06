@@ -4,7 +4,7 @@
 
 Para empezar, hemos hecho uso del postman para verificar que se ejecuta correctamente el backend y se obtiene la información correctamente.
 Empezamos con el primer request de get que nos trae la lista de grupos:
-![image](https://github.com/sebastianromero07/hkt4/assets/112716144/df7a67cf-eff7-49b1-8a79-4dc9da56ca79)
+![image](https://github.com/sebastianromero07/hkt4/assets/112716144/df7a67cf-eff7-49b1-8a79-4dc9da56ca79) {width=40%}{height=250px}
 
 Y haciendo uso del ID podemos hacer otra request de get en base a ello:
 ![image](https://github.com/sebastianromero07/hkt4/assets/112716144/b65d2fe6-5253-4316-bea4-70ef00537499)
