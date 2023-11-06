@@ -1,6 +1,6 @@
 # HKT 4
 
-### Para este trabajo hemos usado un framework llamado DevExtreme con React como frontend mientras que el lado del backend es SpringBoot.
+### Para este trabajo se ha usado un framework llamado DevExtreme con React como frontend mientras que el lado del backend es SpringBoot.
 
 Para empezar, hemos hecho uso del postman para verificar que se ejecuta correctamente el backend y se obtiene la información correctamente.
 Empezamos con el primer request de get que nos trae la lista de grupos:
@@ -27,7 +27,7 @@ Visualmente para la persona que lo verá desde la interfaz (frontend), se eviden
 
 ## ¿Cómo conectar el frontend con el backend?
 
-Hemos usado una clase llamada CorsConfig que implementa el uso de una clase llamada WebMvcConfigurer
+Para conectar ambos se hizo uso de una clase llamada CorsConfig que implementa el uso de una clase llamada WebMvcConfigurer
 Y por último, el uso de la librería Axios para extrar la data al servidor, y posteriormente un fetch para solicitar un get a la URL de groups.
 
 ![image](https://github.com/sebastianromero07/hkt4/assets/112716144/590de485-0a25-4acb-81f5-974ca365bce1)
